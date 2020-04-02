@@ -1,0 +1,60 @@
+.header {
+    margin-bottom: 100px;
+    padding: 20px;
+    text-align: center;
+    background: #00AEDB;
+  }
+  .Name {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
+    font-size: 30px;
+    text-align: center;
+    justify-content: center;
+  }
+  .h2{
+    font-size: 30px;
+  }
+  .INP{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    justify-content: center;
+  }
+  .results{
+    border: 10px solid red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: tomato;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 10px;
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    justify-content: center;
+  }
+  .navlink {
+    background-color: green;
+    border-radius:28px;
+    border:1px solid #18ab29;
+    display:inline-block;
+    text-align: center;
+    justify-content: center;
+    color:#ffffff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:17px;
+    padding:16px 31px;
+    margin: 10px 10px 10px 10px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #2f6627;
+  }
+  .navlink:hover {
+    background-color: yellow;
+    color: red;
+    border:1px solid yellow;
+  }
+  .hr{
+    margin-right: 20px;
+    margin-left: 20px;
+  }
+  
